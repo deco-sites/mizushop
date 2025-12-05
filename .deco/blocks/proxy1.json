@@ -1,4 +1,9 @@
 {
-  "__resolveType": "nuvemshop/loaders/productListingPage.ts",
-  "limit": 24
+  "__resolveType": "nuvemshop/loaders/proxy.ts",
+  "extraPathsToProxy": [],
+  "includeSiteMap": [],
+  "excludePathsFromDecoSiteMap": [],
+  "includeScriptsToHead": {
+    "includes": []
+  }
 }
