@@ -36,7 +36,7 @@
   ],
   "routes": [
     {
-      "__resolveType": "shopify/loaders/proxy.ts",
+      "__resolveType": "nuvemshop/loaders/proxy.ts",
       "extraPathsToProxy": [],
       "includeSiteMap": [],
       "excludePathsFromDecoSiteMap": []
