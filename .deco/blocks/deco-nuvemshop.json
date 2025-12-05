@@ -1,1 +1,7 @@
-{"__resolveType":"site/apps/deco/nuvemshop.ts"}
+{
+  "__resolveType": "site/apps/deco/nuvemshop.ts",
+  "accessToken": {},
+  "platform": "nuvemshop",
+  "publicUrl": "mizuta2.lojavirtualnuvem.com.br",
+  "storeId": "mizuta2"
+}
