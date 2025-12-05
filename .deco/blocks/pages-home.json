@@ -54,11 +54,9 @@
       "section": {
         "__resolveType": "site/sections/Product/ProductShelf.tsx",
         "title": "Featured Products",
-        "cta": "/mono",
         "products": {
           "__resolveType": "nuvemshop/loaders/productList.ts",
           "sort": "price-ascending",
-          "term": "*",
           "limit": 24
         }
       }

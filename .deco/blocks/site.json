@@ -54,7 +54,7 @@
   "commerce": {
     "platform": "other"
   },
-  "platform": "shopify",
+  "platform": "nuvemshop",
   "__resolveType": "site/apps/site.ts",
   "firstByteThresholdMS": false,
   "abTesting": {
@@ -68,5 +68,7 @@
   },
   "flavor": {
     "framework": "htmx"
-  }
+  },
+  "whilelistURLs": [],
+  "whitelistPatterns": []
 }
